@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 24 Sep 2025 07:19:07 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 24 Sep 2025 09:14:01 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -259,7 +259,24 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_59793.html#20250723</guid><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第612回
+－</description><guid isPermaLink="false">第613回
+
+
+2025年7月23日（令和7年7月23日）
+
+１主な施設基準の届出状況等について
+２医療ＤＸ推進体制整備加算等の要件の見直しについて
+３入院について（その１）
+
+
+議事録
+
+
+
+資料
+
+
+－#20250723</guid><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第612回
 
 
 2025年7月16日（令和7年7月16日）
@@ -293,7 +310,24 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_59560.html#20250716</guid><pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第611回
+－</description><guid isPermaLink="false">第612回
+
+
+2025年7月16日（令和7年7月16日）
+
+１医療機器及び臨床検査の保険適用について
+２歯科用貴金属価格の随時改定について
+３外来について（その１）
+
+
+議事録
+
+
+
+資料
+
+
+－#20250716</guid><pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第611回
 
 
 2025年7月9日（令和7年7月9日）
@@ -331,7 +365,26 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_59377.html#20250709</guid><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第610回
+－</description><guid isPermaLink="false">第611回
+
+
+2025年7月9日（令和7年7月9日）
+
+１費用対効果評価専門組織からの報告について
+２医薬品の新規薬価収載について
+３ＤＰＣにおける高額な新規の医薬品等への対応について
+４診療報酬改定結果検証部会からの報告について
+５ＤＰＣ対象病院の退出に係る報告について
+
+
+議事録
+
+
+
+資料
+
+
+－#20250709</guid><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第610回
 
 
 2025年6月25日（令和7年6月25日）
@@ -367,7 +420,25 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_58993.html#20250625</guid><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第609回
+－</description><guid isPermaLink="false">第610回
+
+
+2025年6月25日（令和7年6月25日）
+
+	１部会・小委員会に属する委員の指名等について
+	２保険医療材料専門部会からの報告について
+	３薬価専門部会からの報告について
+	４医療提供体制等について
+
+
+議事録
+
+
+
+資料
+
+
+－#20250625</guid><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第609回
 
 
 2025年6月18日（令和7年6月18日）
@@ -413,7 +484,30 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_58800.html#20250618</guid><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
+－</description><guid isPermaLink="false">第609回
+
+
+2025年6月18日（令和7年6月18日）
+
+	１部会・小委員会に属する委員の指名等について
+	２再生医療等製品の医療保険上の取扱いについて
+	３入院・外来医療等の調査・評価分科会からの報告について
+	４医療機器の保険適用について
+	５先進医療会議からの報告について
+	６最適使用推進ガイドラインについて(報告)
+	７公知申請とされた適応外薬の保険適用について
+	８薬価基準から削除する品目について
+
+
+
+議事録
+
+
+
+資料
+
+
+－#20250618</guid><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -797,7 +891,22 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_59378.html#20250709</guid><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第235回
+－</description><guid isPermaLink="false">第236回
+
+
+2025年7月9日（令和7年7月9日）
+
+１関係業界からの意見聴取について
+
+
+議事録
+
+
+
+資料
+
+
+－#20250709</guid><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第235回
 
 
 2025年6月25日（令和7年6月25日）
@@ -831,7 +940,24 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_58997.html#20250625</guid><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第234回
+－</description><guid isPermaLink="false">第235回
+
+
+2025年6月25日（令和7年6月25日）
+
+１部会長の選出について
+２令和８年度薬価改定について
+３令和７年度医薬品価格調査（薬価調査）について
+
+
+議事録
+
+
+
+資料
+
+
+－#20250625</guid><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第234回
 
 
 2025年1月15日（令和7年1月15日）
@@ -861,7 +987,22 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_48695.html#20250115</guid><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第233回
+－</description><guid isPermaLink="false">第234回
+
+
+2025年1月15日（令和7年1月15日）
+
+１令和７年度薬価改定について　
+
+
+議事録
+
+
+
+資料
+
+
+－#20250115</guid><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第233回
 
 
 2024年12月25日（令和6年12月25日）
@@ -891,7 +1032,22 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_47806.html#20241225</guid><pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第232回
+－</description><guid isPermaLink="false">第233回
+
+
+2024年12月25日（令和6年12月25日）
+
+１令和７年度薬価改定の骨子（案）について　
+
+
+議事録
+
+
+
+資料
+
+
+－#20241225</guid><pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第232回
 
 
 2024年12月20日（令和6年12月20日）
@@ -923,7 +1079,23 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_47570.html#20241220</guid><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第231回
+－</description><guid isPermaLink="false">第232回
+
+
+2024年12月20日（令和6年12月20日）
+
+	１令和７年度薬価改定の骨子（たたき台）について　
+
+
+
+議事録
+
+
+
+資料
+
+
+－#20241220</guid><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第231回
 
 
 2024年12月18日（令和6年12月18日）
@@ -955,7 +1127,23 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_47090.html#20241218</guid><pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第230回
+－</description><guid isPermaLink="false">第231回
+
+
+2024年12月18日（令和6年12月18日）
+
+	１令和７年度薬価改定について　
+
+
+
+議事録
+
+
+
+資料
+
+
+－#20241218</guid><pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第230回
 
 
 2024年12月11日（令和6年12月11日）
@@ -987,7 +1175,23 @@
 資料
 
 
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_46579.html#20241211</guid><pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
+－</description><guid isPermaLink="false">第230回
+
+
+2024年12月11日（令和6年12月11日）
+
+	１関係業界からの意見聴取について 　
+
+
+
+議事録
+
+
+
+資料
+
+
+－#20241211</guid><pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
