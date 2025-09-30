@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 30 Sep 2025 12:26:28 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 30 Sep 2025 13:24:59 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -9,7 +9,7 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:f5e0c44e46279cae647eb20d1fb719f4eb7ab5eb</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第238回
+開催案内</description><guid isPermaLink="false">urn:newsitem:f5e0c44e46279cae647eb20d1fb719f4eb7ab5eb</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】【2025-09-17】第238回
 
 
 2025年9月17日（令和7年9月17日）
@@ -21,7 +21,7 @@
 資料
 
 
-－ (2025-09-17)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第238回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第238回
 
 
 2025年9月17日（令和7年9月17日）
@@ -33,7 +33,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:a38d1ce52ea41098a62a3e37020aebf4772b0a96</guid><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第237回
+－</description><guid isPermaLink="false">urn:newsitem:a38d1ce52ea41098a62a3e37020aebf4772b0a96</guid><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】【2025-08-06】第237回
 
 
 2025年8月6日（令和7年8月6日）
@@ -47,7 +47,7 @@
 資料
 
 
-－ (2025-08-06)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第237回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第237回
 
 
 2025年8月6日（令和7年8月6日）
@@ -61,7 +61,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:56b81d365d62307a9b1dfb828d1a630398da46a8</guid><pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第236回
+－</description><guid isPermaLink="false">urn:newsitem:56b81d365d62307a9b1dfb828d1a630398da46a8</guid><pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】【2025-07-09】第236回
 
 
 2025年7月9日（令和7年7月9日）
@@ -76,7 +76,7 @@
 資料
 
 
-－ (2025-07-09)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第236回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第236回
 
 
 2025年7月9日（令和7年7月9日）
@@ -91,7 +91,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:dc04898859dd37d37bcf56a55c921eb38e603d6a</guid><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第235回
+－</description><guid isPermaLink="false">urn:newsitem:dc04898859dd37d37bcf56a55c921eb38e603d6a</guid><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】【2025-06-25】第235回
 
 
 2025年6月25日（令和7年6月25日）
@@ -108,7 +108,7 @@
 資料
 
 
-－ (2025-06-25)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第235回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第235回
 
 
 2025年6月25日（令和7年6月25日）
@@ -125,7 +125,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:04b82bfd835b5fe5a8e18563585e9937e969f8f1</guid><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第234回
+－</description><guid isPermaLink="false">urn:newsitem:04b82bfd835b5fe5a8e18563585e9937e969f8f1</guid><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】【2025-01-15】第234回
 
 
 2025年1月15日（令和7年1月15日）
@@ -140,7 +140,7 @@
 資料
 
 
-－ (2025-01-15)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第234回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第234回
 
 
 2025年1月15日（令和7年1月15日）
@@ -155,7 +155,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:7058fd26a79a4ac9b84e45788efdd204e3aa4796</guid><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第233回
+－</description><guid isPermaLink="false">urn:newsitem:7058fd26a79a4ac9b84e45788efdd204e3aa4796</guid><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】【2024-12-25】第233回
 
 
 2024年12月25日（令和6年12月25日）
@@ -170,7 +170,7 @@
 資料
 
 
-－ (2024-12-25)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第233回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第233回
 
 
 2024年12月25日（令和6年12月25日）
@@ -185,7 +185,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:79cb3de2daff5e0ac9760c77389fa084d825ccea</guid><pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第232回
+－</description><guid isPermaLink="false">urn:newsitem:79cb3de2daff5e0ac9760c77389fa084d825ccea</guid><pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】【2024-12-20】第232回
 
 
 2024年12月20日（令和6年12月20日）
@@ -201,7 +201,7 @@
 資料
 
 
-－ (2024-12-20)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第232回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第232回
 
 
 2024年12月20日（令和6年12月20日）
@@ -217,7 +217,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:1691193ce4cdb904c8f4a9d4055901c596b2ba74</guid><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第231回
+－</description><guid isPermaLink="false">urn:newsitem:1691193ce4cdb904c8f4a9d4055901c596b2ba74</guid><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】【2024-12-18】第231回
 
 
 2024年12月18日（令和6年12月18日）
@@ -233,7 +233,7 @@
 資料
 
 
-－ (2024-12-18)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第231回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第231回
 
 
 2024年12月18日（令和6年12月18日）
@@ -249,7 +249,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:36347b6aafe63562ae4c3d3d007e4a5388b70203</guid><pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】第230回
+－</description><guid isPermaLink="false">urn:newsitem:36347b6aafe63562ae4c3d3d007e4a5388b70203</guid><pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】【2024-12-11】第230回
 
 
 2024年12月11日（令和6年12月11日）
@@ -265,7 +265,7 @@
 資料
 
 
-－ (2024-12-11)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第230回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第230回
 
 
 2024年12月11日（令和6年12月11日）
@@ -665,7 +665,7 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第618回
+開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-10-01】第618回
 
 
 2025年10月1日（令和7年10月1日）
@@ -679,7 +679,7 @@
 資料
 
 
-－ (2025-10-01)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第618回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第618回
 
 
 2025年10月1日（令和7年10月1日）
@@ -693,7 +693,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:0b93d5a367b0814d26e001a87917985236c22cf9</guid><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第617回
+－</description><guid isPermaLink="false">urn:newsitem:0b93d5a367b0814d26e001a87917985236c22cf9</guid><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-09-17】第617回
 
 
 2025年9月17日（令和7年9月17日）
@@ -713,7 +713,7 @@
 資料
 
 
-－ (2025-09-17)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第617回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第617回
 
 
 2025年9月17日（令和7年9月17日）
@@ -733,7 +733,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:373f48032ae5686799129b338ce0635734906da4</guid><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第616回
+－</description><guid isPermaLink="false">urn:newsitem:373f48032ae5686799129b338ce0635734906da4</guid><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-09-10】第616回
 
 
 2025年9月10日（令和7年9月10日）
@@ -747,7 +747,7 @@
 資料
 
 
-－ (2025-09-10)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第616回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第616回
 
 
 2025年9月10日（令和7年9月10日）
@@ -761,7 +761,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:678fedd9d115aa28cf63df7191bdd05bd9f944bc</guid><pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第615回
+－</description><guid isPermaLink="false">urn:newsitem:678fedd9d115aa28cf63df7191bdd05bd9f944bc</guid><pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-08-27】第615回
 
 
 2025年8月27日（令和7年8月27日）
@@ -779,7 +779,7 @@
 資料
 
 
-－ (2025-08-27)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第615回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第615回
 
 
 2025年8月27日（令和7年8月27日）
@@ -797,7 +797,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:95293d19cab9a1faf22c6cef71829a1d8b61b2d8</guid><pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第614回
+－</description><guid isPermaLink="false">urn:newsitem:95293d19cab9a1faf22c6cef71829a1d8b61b2d8</guid><pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-08-06】第614回
 
 
 2025年8月6日（令和7年8月6日）
@@ -817,7 +817,7 @@
 資料
 
 
-－ (2025-08-06)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第614回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第614回
 
 
 2025年8月6日（令和7年8月6日）
@@ -837,7 +837,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:c524e2fb36561b8261c7da24ecc49efa4562b275</guid><pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第613回
+－</description><guid isPermaLink="false">urn:newsitem:c524e2fb36561b8261c7da24ecc49efa4562b275</guid><pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-07-23】第613回
 
 
 2025年7月23日（令和7年7月23日）
@@ -854,7 +854,7 @@
 資料
 
 
-－ (2025-07-23)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第613回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第613回
 
 
 2025年7月23日（令和7年7月23日）
@@ -871,7 +871,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:ba762176b50ea52628a7e161bcfb4a2e43558d4a</guid><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第612回
+－</description><guid isPermaLink="false">urn:newsitem:ba762176b50ea52628a7e161bcfb4a2e43558d4a</guid><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-07-16】第612回
 
 
 2025年7月16日（令和7年7月16日）
@@ -888,7 +888,7 @@
 資料
 
 
-－ (2025-07-16)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第612回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第612回
 
 
 2025年7月16日（令和7年7月16日）
@@ -905,7 +905,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:5e5ba8bf74eca03727a502eaa780172819cf4d81</guid><pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第611回
+－</description><guid isPermaLink="false">urn:newsitem:5e5ba8bf74eca03727a502eaa780172819cf4d81</guid><pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-07-09】第611回
 
 
 2025年7月9日（令和7年7月9日）
@@ -924,7 +924,7 @@
 資料
 
 
-－ (2025-07-09)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第611回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第611回
 
 
 2025年7月9日（令和7年7月9日）
@@ -943,7 +943,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:06beec2f45cd4679bf5aa9c60d96d2c82d078590</guid><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第610回
+－</description><guid isPermaLink="false">urn:newsitem:06beec2f45cd4679bf5aa9c60d96d2c82d078590</guid><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-06-25】第610回
 
 
 2025年6月25日（令和7年6月25日）
@@ -961,7 +961,7 @@
 資料
 
 
-－ (2025-06-25)</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第610回
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第610回
 
 
 2025年6月25日（令和7年6月25日）
