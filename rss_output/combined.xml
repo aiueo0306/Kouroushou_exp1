@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 30 Sep 2025 09:14:01 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 30 Sep 2025 10:13:45 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -801,7 +801,49 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第617回
+開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第618回
+
+
+2025年10月1日（令和7年10月1日）
+
+	１入院・外来医療等の調査・評価分科会からの報告について
+	２在宅について（その２）
+
+
+－
+
+資料
+
+
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html#20251001</link><description>第618回
+
+
+2025年10月1日（令和7年10月1日）
+
+	１入院・外来医療等の調査・評価分科会からの報告について
+	２在宅について（その２）
+
+
+－
+
+資料
+
+
+－</description><guid isPermaLink="false">第618回
+
+
+2025年10月1日（令和7年10月1日）
+
+	１入院・外来医療等の調査・評価分科会からの報告について
+	２在宅について（その２）
+
+
+－
+
+資料
+
+
+－#20251001</guid><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第617回
 
 
 2025年9月17日（令和7年9月17日）
@@ -1230,76 +1272,7 @@
 資料
 
 
-－#20250625</guid><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】第609回
-
-
-2025年6月18日（令和7年6月18日）
-
-	１部会・小委員会に属する委員の指名等について
-	２再生医療等製品の医療保険上の取扱いについて
-	３入院・外来医療等の調査・評価分科会からの報告について
-	４医療機器の保険適用について
-	５先進医療会議からの報告について
-	６最適使用推進ガイドラインについて(報告)
-	７公知申請とされた適応外薬の保険適用について
-	８薬価基準から削除する品目について
-
-
-
-議事録
-
-
-
-資料
-
-
-－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html#20250618</link><description>第609回
-
-
-2025年6月18日（令和7年6月18日）
-
-	１部会・小委員会に属する委員の指名等について
-	２再生医療等製品の医療保険上の取扱いについて
-	３入院・外来医療等の調査・評価分科会からの報告について
-	４医療機器の保険適用について
-	５先進医療会議からの報告について
-	６最適使用推進ガイドラインについて(報告)
-	７公知申請とされた適応外薬の保険適用について
-	８薬価基準から削除する品目について
-
-
-
-議事録
-
-
-
-資料
-
-
-－</description><guid isPermaLink="false">第609回
-
-
-2025年6月18日（令和7年6月18日）
-
-	１部会・小委員会に属する委員の指名等について
-	２再生医療等製品の医療保険上の取扱いについて
-	３入院・外来医療等の調査・評価分科会からの報告について
-	４医療機器の保険適用について
-	５先進医療会議からの報告について
-	６最適使用推進ガイドラインについて(報告)
-	７公知申請とされた適応外薬の保険適用について
-	８薬価基準から削除する品目について
-
-
-
-議事録
-
-
-
-資料
-
-
-－#20250618</guid><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
+－#20250625</guid><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
