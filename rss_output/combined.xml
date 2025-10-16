@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 16 Oct 2025 08:18:41 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 16 Oct 2025 09:14:47 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -393,7 +393,37 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-10-15】第620回
+開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-10-17】第621回
+
+
+2025年10月17日（令和7年10月17日）
+
+	１外来について（その２）
+	２個別事項について（後発医薬品・バイオ後続品の使用体制、服用薬剤調整支援等の評価）
+	３歯科用貴金属価格の随時改定について　
+
+
+－
+
+資料
+
+
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第621回
+
+
+2025年10月17日（令和7年10月17日）
+
+	１外来について（その２）
+	２個別事項について（後発医薬品・バイオ後続品の使用体制、服用薬剤調整支援等の評価）
+	３歯科用貴金属価格の随時改定について　
+
+
+－
+
+資料
+
+
+－</description><guid isPermaLink="false">urn:newsitem:8938e64be874aba8adf5c9bc97dab511b30d6531</guid><pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-10-15】第620回
 
 
 2025年10月15日（令和7年10月15日）
