@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 27 Nov 2025 07:15:08 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 27 Nov 2025 08:19:45 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -393,7 +393,35 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-11-26】第630回
+開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-11-28】第631回
+
+
+2025年11月28日（令和7年11月28日）
+
+	１診療報酬調査専門組織「医療機関等における消費税負担に関する分科会」
+	２調剤について（その２）
+	３個別事項について（その１０）人口・医療資源の少ない地域、救急医療、業務の簡素化
+
+－
+
+資料
+
+
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第631回
+
+
+2025年11月28日（令和7年11月28日）
+
+	１診療報酬調査専門組織「医療機関等における消費税負担に関する分科会」
+	２調剤について（その２）
+	３個別事項について（その１０）人口・医療資源の少ない地域、救急医療、業務の簡素化
+
+－
+
+資料
+
+
+－</description><guid isPermaLink="false">urn:newsitem:230f20120d0e912fe0e851ef91bd1c8d31413c76</guid><pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2025-11-26】第630回
 
 
 2025年11月26日（令和7年11月26日）
